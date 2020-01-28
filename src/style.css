@@ -188,7 +188,7 @@ label[for="navigation"] {
   text-shadow: 0 0 0.5em #000;
 }
 
-.users {
+.image-user {
   display: flex;
   justify-content: center;
   margin-top: 12%;
@@ -287,6 +287,12 @@ select {
   margin-left: 5%;
   font-size: 15px;
   color: #FFFFFF;
+}
+
+.publicatoin{
+  padding: 5%;
+  margin-top: -2%;
+  text-align: justify;
 }
 
 .publication-public {
@@ -449,7 +455,7 @@ justify-content: flex-end;
     width: 10%;
   }
 
-  .users {
+  .image-user {
     display: flex;
     justify-content: start;
     margin-top: 6%;
