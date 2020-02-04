@@ -1,8 +1,8 @@
 const List = (props) => {
   const template = `
-  <li
-  class="${props.class}"
-  onClick="list.handleClick(event, ${props.onClick})"> ${props.title}</li>
+    <li
+      class="${props.class}"
+      onClick="list.handleClick(event, ${props.onClick})"> ${props.title}</li>
 `;
   return template;
 };

@@ -3,3 +3,8 @@
 coverage/
 node_modules/
 firebase-debug.log
+.firebaserc
+firebase.json
+firestore.indexes.json
+LICENSE
+stylelint.config.js

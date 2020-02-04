@@ -9,7 +9,6 @@ const Input = (props) => {
     maxlength="${props.maxlength}"
     type="${props.type}" required>
     `;
-
   return template;
 };
 

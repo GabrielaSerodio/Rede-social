@@ -7,7 +7,6 @@ const ButtonImage = (props) => {
     onclick="image.handleClick(event,${props.onClick})"
     src="${props.src}"/>
   `;
-
   return template;
 };
 
